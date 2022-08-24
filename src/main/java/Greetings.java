@@ -3,6 +3,10 @@ import java.util.List;
 
 public class Greetings {
 
+    public void emptyPushMethod(){
+
+    }
+
     public String greet(Object name) {
         if (name instanceof String) {
             if (((String) name).toUpperCase().equals(name)) {
