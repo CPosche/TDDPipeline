@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="TDD" options="" />
+      <module name="TDD" options="-endorseddirs &quot;C:\school\3. SEM\Flow1\TDD\target/endorsed&quot; -verbose -Xlint:unchecked" />
     </option>
   </component>
 </project>
